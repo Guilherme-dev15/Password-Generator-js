@@ -10,4 +10,4 @@
 
 **🚀 Tecnologias utilizadas: HTML, CSS, JavaScript
 
-**🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/generator-password-js/"  >Password-Generator</a>]
+**🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/Password-Generator-js/"  >Password-Generator</a>]
