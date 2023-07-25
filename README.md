@@ -1,4 +1,6 @@
-##📁 Password-Generator-js 
+##📁 Password-Generator-js
+
+
 [-- Esta é uma aplicação simples que gera senhas aleatórias com base nas opções selecionadas pelo usuário.
 
 ## Como Usar
