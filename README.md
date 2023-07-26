@@ -13,3 +13,5 @@ Esta é uma aplicação simples que gera senhas aleatórias com base nas opçõe
 **🚀 Tecnologias utilizadas: HTML, CSS, JavaScript
 
 **🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/Password-Generator-js/"  >Password-Generator</a>]
+
+![guilherme-dev15 github io_generator-password-js_](https://github.com/Guilherme-dev15/Password-Generator-js/assets/49658386/663a5661-013e-44a4-812e-861c238cc68c)
